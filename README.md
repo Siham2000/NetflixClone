@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+cd https://se-nitflex--preview-name-g9obmnox.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
